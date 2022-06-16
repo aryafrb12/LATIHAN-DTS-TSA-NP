@@ -1,0 +1,3 @@
+Nama Perangkat: Cisco Router 1, Lokasi: Taman
+Nama Perangkat: Switch 1, Lokasi: Gedung 6
+Nama Perangkat: Cisco Router 2, Lokasi: Gedung 1
